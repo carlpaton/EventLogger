@@ -1,0 +1,10 @@
+C:\Dev\EventLogger\EventLogger\bin\Debug\EventLogger.exe.config
+C:\Dev\EventLogger\EventLogger\bin\Debug\EventLogger.exe
+C:\Dev\EventLogger\EventLogger\bin\Debug\EventLogger.pdb
+C:\Dev\EventLogger\EventLogger\obj\Debug\EventLogger.csprojAssemblyReference.cache
+C:\Dev\EventLogger\EventLogger\obj\Debug\EventLogger.csproj.CoreCompileInputs.cache
+C:\Dev\EventLogger\EventLogger\obj\Debug\EventLogger.exe
+C:\Dev\EventLogger\EventLogger\obj\Debug\EventLogger.pdb
+C:\Dev\EventLogger\EventLogger\bin\Debug\EventLoggerHoe.dll
+C:\Dev\EventLogger\EventLogger\bin\Debug\EventLoggerHoe.pdb
+C:\Dev\EventLogger\EventLogger\obj\Debug\EventLogger.csproj.CopyComplete

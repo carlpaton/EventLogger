@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.329
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLogger", "EventLogger\EventLogger.csproj", "{986F2252-2834-4F8C-9C3A-D07BABF18FB7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventLoggerHoe", "EventLoggerHoe\EventLoggerHoe.csproj", "{E5B0980C-7D31-40A4-9336-DBAA4129DEAD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{986F2252-2834-4F8C-9C3A-D07BABF18FB7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986F2252-2834-4F8C-9C3A-D07BABF18FB7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986F2252-2834-4F8C-9C3A-D07BABF18FB7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986F2252-2834-4F8C-9C3A-D07BABF18FB7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E5B0980C-7D31-40A4-9336-DBAA4129DEAD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5B0980C-7D31-40A4-9336-DBAA4129DEAD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5B0980C-7D31-40A4-9336-DBAA4129DEAD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5B0980C-7D31-40A4-9336-DBAA4129DEAD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C353097B-451B-421A-B651-247FB38E0269}
+	EndGlobalSection
+EndGlobal

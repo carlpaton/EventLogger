@@ -1,0 +1,6 @@
+C:\Dev\EventLogger\EventLoggerHoe\bin\Debug\EventLoggerHoe.dll
+C:\Dev\EventLogger\EventLoggerHoe\bin\Debug\EventLoggerHoe.pdb
+C:\Dev\EventLogger\EventLoggerHoe\obj\Debug\EventLoggerHoe.csprojAssemblyReference.cache
+C:\Dev\EventLogger\EventLoggerHoe\obj\Debug\EventLoggerHoe.csproj.CoreCompileInputs.cache
+C:\Dev\EventLogger\EventLoggerHoe\obj\Debug\EventLoggerHoe.dll
+C:\Dev\EventLogger\EventLoggerHoe\obj\Debug\EventLoggerHoe.pdb
